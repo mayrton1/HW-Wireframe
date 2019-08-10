@@ -1,0 +1,8 @@
+h1{
+    border: solid;
+    background-color: #4aaaa5;
+    color: white;
+    width: 250px; 
+}
+p{display:inline;}
+ul{display:inline;color:pink;}
