@@ -14,15 +14,21 @@ Footer background color: #666666
 Main content background color: #ffffff
 
 Main content border color: #dddddd */
+header{padding: 20px;}
 h1{
     border: solid;
     background-color: #4aaaa5;
     color: white;
     width: 250px; 
+    font-size: 24px;
 }
+h2{color: #4aaaa5;}
 p{display:inline;}
-ul{display:inline;color:pink;}
-
+ul{display:inline;color: #000;}
+main
+{img:}
 footer{
 border-top: 8px 
-solid #4aaaa5;}
+solid #4aaaa5;
+background-color: #666666;
+padding: 20px;}
