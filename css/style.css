@@ -25,10 +25,12 @@ h1{
 h2{color: #4aaaa5;}
 p{display:inline;}
 ul{display:inline;color: #000;}
-main
-{img:}
+
+body{ border: 1px; color: #dddddd */
+}
+
 footer{
 border-top: 8px 
 solid #4aaaa5;
 background-color: #666666;
-padding: 20px;}
+padding: 20px; color: white;}
